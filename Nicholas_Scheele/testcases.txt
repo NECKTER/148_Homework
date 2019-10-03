@@ -1,1 +1,4 @@
 I study CMPE 148.
+This is a newline?
+I am done with this project!
+%
